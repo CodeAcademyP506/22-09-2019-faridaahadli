@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\bin\x86\Release\toDoList.exe.config
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\bin\x86\Release\toDoList.exe
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\bin\x86\Release\toDoList.pdb
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\obj\x86\Release\toDoList.Form1.resources
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\obj\x86\Release\toDoList.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\obj\x86\Release\toDoList.toDoListForm.resources
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\obj\x86\Release\toDoList.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\obj\x86\Release\toDoList.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\obj\x86\Release\toDoList.exe
+C:\Users\HP\Desktop\New folder\toDoList\toDoList\obj\x86\Release\toDoList.pdb
